@@ -56,6 +56,8 @@ body, html {
 
 .demo {
 	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
 	border-radius: 32pt;
 	background-color: white;
   	color: black;
@@ -87,7 +89,7 @@ body, html {
 .disc:hover {
 	margin-top: 10px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
@@ -97,8 +99,10 @@ body, html {
 
 .demo:hover {
 	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
@@ -109,7 +113,7 @@ body, html {
 .contact:hover {
 	margin-top: 10px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
@@ -135,6 +139,8 @@ body, html {
 
 .Apple_Music {
 	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
 	border-radius: 32pt;
 	background-color: white;
   	color: black;
@@ -166,7 +172,7 @@ body, html {
 .Spotify:hover {
 	margin-top: 10px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
@@ -177,8 +183,10 @@ body, html {
 
 .Apple_Music:hover {
 	margin-top: 10px;
+	margin-left: 1px;
+	margin-right: 1px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
@@ -189,7 +197,7 @@ body, html {
 .Soundcloud:hover {
 	margin-top: 10px;
 	border-radius: 5pt;
-	background-color: rgb( 40, 40, 55 );
+	background-color: #4e6798;
     	color: white;
     	padding: 10px 17px;
     	text-align: center;
